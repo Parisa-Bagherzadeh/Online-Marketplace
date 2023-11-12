@@ -1,7 +1,7 @@
 # Online Marketplace 👗🧸🪑   
 
 Welcome to the simple Online Marketplace!   
-This project is is a work-in-progress implementation of an online marketplace using Django  
+This project is a work-in-progress implementation of an online marketplace using Django  
 
 
 This README will provide an overview of the project and its current status.  
