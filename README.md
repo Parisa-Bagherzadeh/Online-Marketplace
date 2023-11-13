@@ -10,7 +10,7 @@ This README will provide an overview of the project and its current status.
 * Product listing and browsing  
 
 
-🔨 Development Progress    
+## 🔨 Development Progress    
 This online marketplace project is currently in the development phase
 
 
